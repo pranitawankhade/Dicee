@@ -1,0 +1,23 @@
+body {
+  background-color: #393E46;
+}
+.Container{
+
+  font-family: 'Lobster', cursive;
+  font-size:75px;
+  text-align: center;
+  color: #66BFBF;
+}
+
+.Container1{
+
+    text-align: center;
+    display: inline-block;
+    color: #66BFBF;
+    font-family: 'Lobster', cursive;
+    font-size:50px;
+}
+
+p{
+      font-family: 'Lobster', cursive;
+}
